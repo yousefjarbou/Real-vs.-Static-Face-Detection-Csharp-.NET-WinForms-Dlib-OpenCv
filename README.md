@@ -4,7 +4,7 @@ This project was developed as part of my internship at **SEDCO** during the summ
 
 To make this feature reusable, I converted the application into a **DLL**, allowing easy integration into other projects. The function, when called, opens a camera window for a short time, processes the live feed, and then **returns a boolean value** (`true` for a real person, `false` for a static image). This modular design enables seamless incorporation into various security and authentication systems.
 
-This DLL was successfully **integrated into my main project** during the internship—**[Zain Service App C#-.NET-WinForms-Dlib-OpenCv-XML-SQL SEDCO](https://github.com/your-zain-app-repo)**.
+This DLL was successfully **integrated into my main project** during the internship—**[Zain Service App C#-.NET-WinForms-Dlib-OpenCv-XML-SQL SEDCO](https://github.com/yousefjarbou/Zain-Service-App-Csharp-.NET-WinForms-Dlib-OpenCv-XML-SQL-SEDCO)**.
 
 ---
 
