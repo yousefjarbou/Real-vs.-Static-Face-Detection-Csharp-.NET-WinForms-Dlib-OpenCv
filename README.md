@@ -1,4 +1,4 @@
-# Real vs. Static Face Detection C#-.NET-WinForms-Dlib-OpenCv
+# Real vs. Static Face Detection C#-.NET-WinForms-Dlib-OpenCv August-2024
 
 This project was developed as part of my internship at **SEDCO** during the summer of 2024. It is a **C# .NET Windows application** designed to differentiate between a **real person** and a **static image** using webcam-based face detection. The system enhances security for facial recognition applications by verifying user **liveness** through **eye-blink detection**.
 
